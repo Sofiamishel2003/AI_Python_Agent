@@ -1,0 +1,51 @@
+Dish,Country of Origin,Main Ingredients,Cooking Time (min),Difficulty Level
+Sushi,Japan,"Rice, Fish, Seaweed",30,Medium
+Ramen,Japan,"Noodles, Pork, Egg, Broth",45,Hard
+Pad Thai,Thailand,"Rice Noodles, Tofu, Peanuts",30,Medium
+Dumplings,China,"Flour, Meat, Vegetables",60,Hard
+Kimchi,Korea,"Cabbage, Radish, Spices",120,Medium
+Spring Rolls,Vietnam,"Rice Paper, Vegetables, Shrimp",25,Easy
+Pho,Vietnam,"Rice Noodles, Beef, Herbs",45,Medium
+Bulgogi,Korea,"Beef, Soy Sauce, Sesame Oil",30,Medium
+Teriyaki Chicken,Japan,"Chicken, Soy Sauce, Sugar",25,Easy
+Green Curry,Thailand,"Coconut Milk, Chicken, Curry Paste",40,Hard
+Tom Yum Soup,Thailand,"Lemongrass, Shrimp, Chili",30,Medium
+Fried Rice,China,"Rice, Egg, Soy Sauce",20,Easy
+Tempura,Japan,"Shrimp, Flour, Oil",25,Hard
+Miso Soup,Japan,"Soybean Paste, Tofu",15,Easy
+Takoyaki,Japan,"Flour, Octopus, Cabbage",20,Medium
+Banh Mi,Vietnam,"Baguette, Pork, Vegetables",30,Medium
+Hot Pot,China,"Meat, Broth, Vegetables",90,Hard
+Bibimbap,Korea,"Rice, Vegetables, Egg",25,Medium
+Curry Laksa,Malaysia,"Coconut Milk, Noodles, Curry Paste",50,Hard
+Satay,Indonesia,"Peanuts, Chicken, Spices",15,Easy
+Sashimi,Japan,"Raw Fish, Soy Sauce, Wasabi",20,Hard
+Matcha Ice Cream,Japan,"Matcha, Milk, Sugar",25,Easy
+Gyoza,Japan,"Flour, Pork, Cabbage",30,Easy
+Onigiri,Japan,"Rice, Seaweed, Pickled Plum",10,Easy
+Sticky Rice,Thailand,"Sticky Rice, Coconut Milk, Mango",25,Easy
+Char Siu,China,"Pork, Honey, Five-Spice Powder",60,Hard
+Peking Duck,China,"Duck, Soy Sauce, Honey",90,Hard
+Chicken Adobo,Philippines,"Chicken, Vinegar, Soy Sauce",45,Easy
+Roti Canai,Malaysia,"Flour, Ghee, Curry",20,Hard
+Tom Kha Gai,Thailand,"Coconut Milk, Chicken, Lemongrass",40,Medium
+Yakitori,Japan,"Chicken, Soy Sauce, Mirin",30,Easy
+Crispy Pork Belly,China,"Pork Belly, Soy Sauce, Garlic",50,Medium
+Sesame Noodles,China,"Sesame, Noodles, Soy Sauce",90,Medium
+Hainanese Chicken Rice,Malaysia,"Chicken, Ginger, Rice",60,Medium
+Taiwanese Beef Noodles,Taiwan,"Beef, Noodles, Soy Sauce",45,Hard
+Japchae,Korea,"Sweet Potato Noodles, Vegetables, Beef",25,Medium
+Kimchi Stew,Korea,"Cabbage, Red Pepper Paste, Garlic",30,Medium
+Okonomiyaki,Japan,"Flour, Cabbage, Pork",15,Hard
+Shabu Shabu,Japan,"Broth, Vegetables, Beef",60,Hard
+Katsu Curry,Japan,"Curry Powder, Chicken, Rice",35,Medium
+Laksa,Malaysia,"Noodles, Coconut Milk, Spices",40,Medium
+Beef Rendang,Indonesia,"Beef, Coconut Milk, Spices",70,Hard
+Dim Sum,China,"Dumplings, Pork, Vegetables",50,Medium
+Sichuan Hotpot,China,"Broth, Chili Oil, Meat",30,Hard
+Tea Eggs,China,"Eggs, Soy Sauce, Tea",40,Medium
+Egg Tarts,China,"Egg Custard, Flour, Milk",30,Easy
+Biryani,India,"Rice, Spices, Meat",90,Hard
+Tandoori Chicken,India,"Chicken, Yogurt, Spices",45,Medium
+Palak Paneer,India,"Spinach, Cottage Cheese, Spices",30,Medium
+Masala Dosa,India,"Rice, Lentils, Spices",25,Medium

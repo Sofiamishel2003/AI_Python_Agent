@@ -1,0 +1,51 @@
+Species,Length (m),Weight (tons),Habitat,Diet
+Blue Whale,30.0,120.0,Oceans worldwide,Krill
+Humpback Whale,16.0,36.0,Oceans worldwide,Krill and small fish
+Orca,9.0,6.0,All oceans,Fish and marine mammals
+Dolphin,2.7,0.2,All oceans,Small fish
+Sperm Whale,20.0,45.0,Deep oceans,Squid
+Beluga Whale,5.0,1.5,Arctic and sub-Arctic regions,Fish
+Minke Whale,8.0,9.0,All oceans,Krill
+Narwhal,5.0,1.8,Arctic regions,Fish and squid
+Pilot Whale,6.0,3.0,Tropical oceans,Squid
+Sei Whale,19.0,20.0,Oceans worldwide,Krill
+Bowhead Whale,20.0,75.0,Arctic regions,Plankton
+Gray Whale,15.0,35.0,North Pacific,Small fish
+Bryde's Whale,13.0,20.0,Tropical oceans,Plankton
+False Killer Whale,6.0,1.3,Tropical oceans,Small fish
+Pygmy Sperm Whale,3.0,0.4,Deep oceans,Squid
+Vaquita,1.5,0.1,Gulf of California,Small fish
+River Dolphin,2.0,0.2,Freshwater rivers,Fish and crustaceans
+Dall's Porpoise,2.4,0.15,North Pacific,Small fish
+Harbor Porpoise,1.7,0.12,North Atlantic,Small fish and squid
+Fin Whale,22.0,85.0,All oceans,Krill
+Beaked Whale,5.0,3.0,Deep oceans,Small fish
+Cuvier's Beaked Whale,7.0,2.5,All oceans,Small fish and squid
+Risso's Dolphin,2.5,0.15,Tropical oceans,Small fish
+Spinner Dolphin,2.3,0.1,Tropical oceans,Small fish and squid
+Striped Dolphin,2.7,0.2,All oceans,Small fish
+Common Dolphin,2.6,0.2,All oceans,Small fish and squid
+Rough-Toothed Dolphin,2.4,0.18,Tropical oceans,Fish and squid
+Atlantic Spotted Dolphin,3.2,0.3,Tropical oceans,Fish and crustaceans
+Indo-Pacific Bottlenose Dolphin,2.8,0.2,Coastal waters,Small fish
+Pantropical Spotted Dolphin,2.1,0.12,Tropical rivers,Small fish
+Irrawaddy Dolphin,1.8,0.13,Southern Africa,Small fish and crustaceans
+Commerson's Dolphin,1.7,0.3,Freshwater rivers,Fish and crustaceans
+Heaviside's Dolphin,2.4,0.35,Amazon River,Fish and crustaceans
+Amazon River Dolphin,2.5,0.14,South America,Fish
+Boto,1.6,0.2,Freshwater rivers,Small fish
+La Plata Dolphin,1.9,0.22,Amazon River,Small fish
+Peale's Dolphin,2.2,0.3,Tropical waters,Small fish
+Tucuxi,2.5,2.5,All oceans,Squid
+Fraser's Dolphin,4.0,3.5,Indian Ocean,Fish and crustaceans
+Melon-Headed Whale,5.5,0.4,Ganges River,Small fish
+Pygmy Killer Whale,3.0,0.35,Yangtze River,Small fish and crustaceans
+Ganges River Dolphin,2.7,0.32,Indian Ocean,Small fish
+Yangtze River Dolphin,2.8,0.3,North Pacific,Small fish
+Indian Ocean Bottlenose Dolphin,3.3,0.4,South Atlantic,Fish
+Pacific White-Sided Dolphin,4.2,1.5,Southern Ocean,Plankton
+Dusky Dolphin,6.0,1.6,Oceans worldwide,Krill
+Hourglass Dolphin,6.5,20.0,Northern Hemisphere,Krill
+Southern Right Whale,11.0,60.0,Indian Ocean,Small fish
+Northern Right Whale,7.8,15.0,Deep seas,Plankton
+Northern Right Whale,10.5,15.0,Polar seas,Plankton

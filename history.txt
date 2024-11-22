@@ -1,0 +1,21 @@
+2024-11-22 17:22:25.376836: ¿Qué especies de cetáceos tienen una longitud mayor a 20 metros y dónde habitan?-->Las especies de cetáceos que tienen una longitud mayor a 20 metros y sus hábitats son: la Ballena Azul (océanos de todo el mundo) y la Ballena de Aleta (todos los océanos).
+2024-11-22 17:23:04.305743: Genera un patrón piramidal de asteriscos de tamaño 5-->```
+    *
+   ***
+  *****
+ *******
+*********
+```
+2024-11-22 17:24:11.944576: La división de los números 4000 sobre 40-->La división de 4000 entre 40 es 100.0.
+2024-11-22 17:24:20.388512: Genera un patrón piramidal de asteriscos de tamaño 5-->```
+    *
+   ***
+  *****
+ *******
+*********
+```
+2024-11-22 17:24:27.509750: Simula el lanzamiento de dos dados 500 veces y calcula la probabilidad de obtener un total de 7-->La probabilidad de obtener un total de 7 al lanzar dos dados 500 veces es aproximadamente 0.148.
+2024-11-22 17:24:48.572613: ¿Qué especies de cetáceos tienen una longitud mayor a 20 metros y dónde habitan?-->Las especies de cetáceos que tienen una longitud mayor a 20 metros y sus hábitats son: la Ballena Azul (océanos de todo el mundo) y la Ballena de Aleta (todos los océanos).
+2024-11-22 17:25:07.481437: ¿Cuáles son las películas de género 'Drama' lanzadas después del año 2000 que tienen una calificación de IMDB mayor a 8.5?-->The drama movies released after 2000 with an IMDB rating greater than 8.5 are 'The Dark Knight', 'Parasite', 'Interstellar', and 'City of God'.
+2024-11-22 17:25:27.580427: ¿Cuáles canciones del álbum 'Happier Than Ever' tienen una duración mayor a 3.5 minutos?-->Las canciones del álbum 'Happier Than Ever' que tienen una duración mayor a 3.5 minutos son 'Happier Than Ever', 'Your Power' y 'Everything I Wanted (Live)'.
+2024-11-22 17:25:47.949718: ¿Qué platillos asiáticos tienen un nivel de dificultad 'Fácil' y tardan menos de 30 minutos en prepararse?-->Los platillos asiáticos que tienen un nivel de dificultad 'Fácil' y tardan menos de 30 minutos en prepararse incluyen: Spring Rolls, Teriyaki Chicken, Fried Rice, Miso Soup, Satay, Matcha Ice Cream, Onigiri y Sticky Rice.
