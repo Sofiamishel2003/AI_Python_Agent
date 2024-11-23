@@ -19,7 +19,7 @@ Este proyecto implementa un agente interactivo utilizando Streamlit, LangChain y
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tu_usuario/agente-interactivo.git
+   git clone https://github.com/Sofiamishel2003/agente-interactivo.git
    cd agente-interactivo
    ```
 
@@ -49,7 +49,7 @@ Este proyecto implementa un agente interactivo utilizando Streamlit, LangChain y
 2. Abre el navegador en la URL proporcionada (generalmente `http://localhost:8501`).
 
 ## Video de demostración
-Link to the video: https://youtu.be/zlSYAF--VfY 
+Link to the video: [https://youtu.be/4p-tlLcDjws](https://youtu.be/bZE2xFX0glw)
 
 ### Ejecución de código Python
 1. Selecciona uno de los ejemplos predefinidos en la sección **Python REPL**.
