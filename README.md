@@ -49,7 +49,7 @@ Este proyecto implementa un agente interactivo utilizando Streamlit, LangChain y
 2. Abre el navegador en la URL proporcionada (generalmente `http://localhost:8501`).
 
 ## Video de demostración
-Link to the video: [https://youtu.be/4p-tlLcDjws](https://youtu.be/bZE2xFX0glw)
+Link to the video: [Video](https://youtu.be/bZE2xFX0glw)
 
 ### Ejecución de código Python
 1. Selecciona uno de los ejemplos predefinidos en la sección **Python REPL**.
